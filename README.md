@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I love coding and solving problems based on my own ideas and passions.
 
-https://github-readme-stats.vercel.app/api?username=RiptideStar
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RiptideStar&show_icons=true&theme=prussian)
