@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am Kyle Zhang: 
+  - a senior in high school
+  - enjoys coding, tennis, and video games
 
-I love coding and solving problems based on my own ideas and passions.
+In mathematics and computer science, I am passionate about:
+  - Machine Learning / Data Science
+  - Number Theory
+  - Music Theory
+  - Web Development
+  - Game Development
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RiptideStar&show_icons=true&theme=prussian)
