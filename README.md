@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am Kyle Zhang: 
-  - a senior in high school
+  - an incoming freshman at UPenn M&T (Wwarton + CS)
   - enjoys coding, tennis, and video games
 
 In mathematics and computer science, I am passionate about:
