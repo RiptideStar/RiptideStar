@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 In mathematics and computer science, I am passionate about:
   - Machine Learning / Data Science
   - Number Theory
-  - Music Theory
   - Web Development
   - Game Development
 
