@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am Kyle Zhang: 
-  - an incoming freshman at UPenn M&T (Wwarton + CS)
+  - an incoming freshman at UPenn M&T (Wharton + CS)
   - enjoys coding, tennis, and video games
 
 In mathematics and computer science, I am passionate about:
