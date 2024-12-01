@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am Kyle Zhang: 
-  - a freshman at UPenn M&T (Wharton + CS)
+  - Education: UPenn M&T
   - enjoys coding, tennis, and video games
 
 In mathematics and computer science, I am passionate about:
-  - Machine Learning / Data Science
+  - AI / Machine Learning / Data Science
   - Number Theory
   - Web Development
   - Game Development
